@@ -1,5 +1,5 @@
 // Create an array called favSingers and store your three favorite singers in it
-const favSingers = ["Singer1", "Singer2", "Singer3"];
+const favSingers = ["Taylor Swift", "Joji", "Jisoo"];
 
 // Log the first singer in the array using array index notation
 console.log(favSingers[0]);
